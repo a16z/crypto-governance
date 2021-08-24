@@ -10,4 +10,4 @@ The repo is organized such that each folder contains materials related to a part
 
 | Folder     | Description                                                                                                       |
 |------------|-------------------------------------------------------------------------------------------------------------------|
-| [delegation](./delegation) | Materials related to a16z's token delegation program--transferring governance rights to active community members. |
+| [delegation](./delegation) | Materials related to a16z's token delegation program--transferring governance rights to active community members. It contains a template [delegation letter](./delegation/delegation_letter.md) specifying such an agreement as well as a template [rubric](./delegation/rubric.md) for evaluating potential delegates. |
