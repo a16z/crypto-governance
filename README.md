@@ -2,8 +2,12 @@
 
 This repository contains open source content created by [a16z](https://a16z.com/) related to the governance of open protocols in the cryptocurrency space.
 
-The repo is organized by topic, with each folder containing more materials on each topic.
+&nbsp;
+
+## Organization
+
+The repo is organized such that each folder contains materials related to a particular topic:
 
 | Folder     | Description                                                                                                       |
 |------------|-------------------------------------------------------------------------------------------------------------------|
-| delegation | Materials related to a16z's token delegation program--transferring governance rights to active community members. |
+| [delegation](./delegation) | Materials related to a16z's token delegation program--transferring governance rights to active community members. |
