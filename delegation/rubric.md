@@ -1,6 +1,6 @@
 # Template Delegation Rubric 
 
-![Table](./images/rubric_table.png)
+![Table](./images/rubric_screenshot.png)
 
 &nbsp;
 
