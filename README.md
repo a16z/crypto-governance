@@ -2,6 +2,8 @@
 
 This repository contains open source content created by [a16z](https://a16z.com/) related to the governance of open protocols in the cryptocurrency space.
 
+If you're interested in joining our token delegation program, fill out an application [here](https://forms.gle/C4wGuMkiYvghhHei6).
+
 &nbsp;
 
 ## Organization
